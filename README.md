@@ -7,4 +7,6 @@
 - <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" width="15" height="15"/><a href="https://www.linkedin.com/in/greychung/"> LinkedIn Profile</a>
 - <img src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" width="15" height="15"/><a href="https://public.tableau.com/app/profile/haonan.zhong"> Tableau Public Profile</a>
 
-<img align="center" alt="GIF" src="https://github.com/greysonchung/greysonchung/blob/main/code.gif" width="250" height="160" />
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="greychung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/greychung?trk=profile-badge">Haonan Zhong</a></div>
+              
