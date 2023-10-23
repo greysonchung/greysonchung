@@ -8,4 +8,4 @@
 - <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" width="15" height="15"/><a href="https://www.linkedin.com/in/greychung/">  LinkedIn Profile</a>
 - <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="15" height="15"/><a href="https://public.tableau.com/app/profile/haonan.zhong">  Tableau Public Profile</a>
 
-<img align="center" alt="GIF" src="https://github.com/greysonchung/greysonchung/blob/main/code.gif" width="250" height="160" />
+[![PSN Profile](https://card.psnprofiles.com/2/greyson_zhn.png)](https://psnprofiles.com/greyson_zhn)
